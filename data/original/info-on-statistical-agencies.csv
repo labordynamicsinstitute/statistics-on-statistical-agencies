@@ -1,0 +1,17 @@
+Agency,URL,"Department
+","OPM Code
+",Principal,Higher,OPM Code Higher
+Bureau of Economic Analysis,https://www.bea.gov//,Commerce Department,CM53,x,,
+Bureau of Justice Statistics,https://www.bjs.gov/,Justice Department,na,x,Office of Justice Programs,DJ07
+Bureau of Labor Statistics,https://www.bls.gov/,Labor Department,DLLS,x,,
+Bureau of Transportation Statistics,https://www.bts.gov/rita,Transportation Department,na,x,Office of the Secretary of Transportation,TD01
+Economic Research Service,https://ers.usda.gov/,Agriculture Department,AG18,x,,
+National Agricultural Statistics Service,https://www.ers.usda.gov/,Agriculture Department,AG20,x,,
+National Center for Education Statistics,https://nces.ed.gov/,Education Department,na,x,Institute of Education Sciences,EDER
+National Center for Health Statistics,https://www.cdc.gov/nchs/,Health and Human Services Department,na,x,CDC,HE39
+National Center for Science and Engineering Statistics,https://www.nsf.gov/statistics/index.cfm,National Science Foundation,na,x,"National Science Foundation
+",NF
+"Office of Research, Evaluation, and Statistics",https://www.ssa.gov/policy/about/ORES.html,Social Security Administration,na,x,Social Security Administration,SZ
+Statistics of Income,https://www.irs.gov/uac/SOI-Tax-Stats-Statistics-of-Income,Treasury Department,na,x,IRS,TR93
+U.S. Census Bureau,https://www.census.gov/,Commerce Department,CM63,x,,
+U.S. Energy Information Administration,https://www.eia.gov/,Energy Department,na,x,Department of Energy,DN00

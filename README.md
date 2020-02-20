@@ -1,24 +1,13 @@
-# Blank Project Template
+# Statistics on statistical agencies
 
-To clone this directory for a new "project",
+## Sources
 
-    git clone https://github.com/labordynamicsinstitute/paper-template.git
-    mv paper-template paper-meaningful-name  
-    cd paper-meaningful-name
-    git remote remove origin
+> These still need to be converted to proper bib entries
 
-Now create a new repository on the git of your choice, e.g., Github. You will then run
+### List of statistical agencies
 
-    git remote add origin git@github.com:labordynamicsinstitute/paper-meaningful-name.git
-    git push -u origin master
-  
-Alternatively, you can use the [Use as template](https://github.com/labordynamicsinstitute/paper-template/generate) functionality on Github.com.
+https://nces.ed.gov/FCSM/agencies.asp as of 2020-02-20
 
-You should replace this README with a README template adequate for describing the resulting replication archive, such as
-- [AEA Template README](https://github.com/AEADataEditor/aea-de-guidance/blob/master/template-README.md)
+### Employment 
 
-## Other useful templates
-
-- [Gentzkow-Shapiro Lab template](https://github.com/gslab-econ/template): has more bells and whistles.
-- [Project TIER](https://www.projecttier.org/): a looser structure
-
+Various years of OPM data. In some cases, review of agency reports to identify the breakout of the statistical agency from the next higher entity reported in OPM.
